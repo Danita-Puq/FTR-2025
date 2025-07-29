@@ -9,4 +9,4 @@ Espero que estos materiales te resulten útiles y te apoyen en el desarrollo de 
 
 --
 ### Temas cubiertos
-- **1:** Introducción a Python y Google Colab.
+- **1:** Introducción a Python y Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danita-Puq/FTR-2025/blob/main/notebooks/ejemplo_fenomenos.ipynb)
