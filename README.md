@@ -1,12 +1,31 @@
-# Fenómenos de Transporte – Curso 2025 del Departamento de Ingeniería Química, Universidad de Magallanes.
+# Fenómenos de Transporte 2025 (DIQ-UMAG)
 
-Este repositorio contiene el material de apoyo, notebooks interactivos y ejemplos prácticos para el curso **Fenómenos de Transporte**.  
+Este repositorio contiene notebooks interactivos y ejemplos prácticos para el curso de Fenómenos de Transporte (FTR) de la carrera de Ingeniería Civil Química de la Universidad de Magallanes.
 El objetivo es que los estudiantes utilicen **Python** y **Google Colab** para simular, visualizar y analizar fenómenos de **transferencia de masa, energía y cantidad de movimiento**.
---
-## **¿Cómo usar este repositorio?**
 Para comenzar, abre el enlace de Google Colab correspondiente a cada notebook. Asegúrate de iniciar sesión con tu cuenta de Google, así podrás guardar tus avances y realizar cambios en el código. Sigue las indicaciones que encontrarás en cada notebook y atrévete a probar distintas modificaciones para reforzar los conceptos.
+
 Espero que estos materiales te resulten útiles y te apoyen en el desarrollo de las habilidades necesarias para enfrentar con éxito los temas de Fenómenos de Transporte. 
 
---
-### Temas cubiertos
-- **1:** Introducción a Python y Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danita-Puq/FTR-2025/blob/main/notebooks/ejemplo_fenomenos.ipynb)
+
+Atte.  
+
+Profesora Daniela Navarro-Pérez [daniela.navarro@umag.cl](mailto:daniela.navarro@umag.cl)  
+
+Ayudante Diego Glasinovich Mansilla [dglasino@umag.cl](mailto:dglasino@umag.cl)
+
+
+### Notebooks
+| Nº  | Tema                                  | Abrir en Colab |
+|----:|---------------------------------------|----------------|
+| 1   | Introducción a Python y Google Colab  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danita-Puq/FTR-2025/blob/main/notebooks/ejemplo_fenomenos.ipynb) |
+
+
+### Otros repositorios útiles
+- https://github.com/ASyS-utn-frm/python
+- https://github.com/GeoLatinas/Intro-to-python
+
+### Otros recursos útiles
+- Ebook [Python para todos](https://drive.google.com/file/d/0B5VsS3feMSSgNTU4OGJkZDktMjgzNy00NGNlLWFkYjUtYmQ1ZWI1NDBjOTVj/view?resourcekey=0-bAgfYp82Tah5u0Xaj7pGgQ)
+- Ebook [Introducción a la programación con Python](https://ia802802.us.archive.org/34/items/IntroduccinALaProgramacinConPythonBecerra/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python%20-%20Becerra.pdf)
+- Video YouTube [¿Cómo usar Google Colab?](https://youtu.be/GO5JY2OWnuI?si=DimOZJH6PvvesPrW)
+- Video YouTube [Cómo APRENDER a PROGRAMAR RÁPIDO usando ChatGPT](https://youtu.be/NNFILURqLv8?si=5ycmY1NJQ78rMHNj)
