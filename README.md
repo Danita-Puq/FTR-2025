@@ -17,7 +17,7 @@ Ayudante Diego Glasinovich Mansilla [dglasino@umag.cl](mailto:dglasino@umag.cl)
 ### Notebooks
 | Nº  | Tema                                  | Abrir en Colab |
 |----:|---------------------------------------|----------------|
-| 1   | Introducción a Python y Google Colab  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danita-Puq/FTR-2025/blob/main/notebooks/ejemplo_fenomenos.ipynb) |
+| 1   | Introducción a Python y Google Colab  | XXXXXX |
 
 
 ### Otros repositorios útiles
