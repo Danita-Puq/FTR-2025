@@ -28,5 +28,5 @@ Ayudante Diego Glasinovich Mansilla [dglasino@umag.cl](mailto:dglasino@umag.cl)
 - Ebook [Python para todos](https://drive.google.com/file/d/0B5VsS3feMSSgNTU4OGJkZDktMjgzNy00NGNlLWFkYjUtYmQ1ZWI1NDBjOTVj/view?resourcekey=0-bAgfYp82Tah5u0Xaj7pGgQ)
 - Ebook [Introducción a la programación con Python](https://ia802802.us.archive.org/34/items/IntroduccinALaProgramacinConPythonBecerra/Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python%20-%20Becerra.pdf)
 - Video YouTube [¿Cómo usar Google Colab?](https://youtu.be/GO5JY2OWnuI?si=DimOZJH6PvvesPrW)
-- Cheat Sheet de Google Colab [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danita-Puq/FTR-2025/blob/main/notebooks/ejemplo_fenomenos.ipynb](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)) |
+- Cheat Sheet de Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)
 - Video YouTube [Cómo APRENDER a PROGRAMAR RÁPIDO usando ChatGPT](https://youtu.be/NNFILURqLv8?si=5ycmY1NJQ78rMHNj)
