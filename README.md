@@ -24,6 +24,7 @@ Ayudante Diego Glasinovich Mansilla [dglasino@umag.cl](mailto:dglasino@umag.cl)
 ### Otros repositorios útiles
 - https://github.com/ASyS-utn-frm/python
 - https://github.com/GeoLatinas/Intro-to-python
+- https://github.com/im-luka/markdown-cheatsheet
 
 ### Otros recursos útiles
 - Ebook [Python para todos](https://drive.google.com/file/d/0B5VsS3feMSSgNTU4OGJkZDktMjgzNy00NGNlLWFkYjUtYmQ1ZWI1NDBjOTVj/view?resourcekey=0-bAgfYp82Tah5u0Xaj7pGgQ)
